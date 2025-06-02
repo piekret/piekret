@@ -43,11 +43,17 @@
 
 ###
 
-<img align="right" height="100" src="https://i1.sndcdn.com/artworks-4EUlEuDoyQKICttU-nj9N2w-t500x500.png"  />
+<h3 align="left">🌱 Currently learning:  C# / .NET</h3>
 
 ###
 
-<h3 align="left">Contact me 📱</h3>
+<h2 align="left">Contact me 📱</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="100" src="https://i1.sndcdn.com/artworks-4EUlEuDoyQKICttU-nj9N2w-t500x500.png"  />
 
 ###
 
