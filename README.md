@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">Contact me 📱</h2>
+<h3 align="left">Contact me 📱</h3>
 
 ###
 
