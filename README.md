@@ -9,13 +9,13 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-patryk--jurak-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:patryk52310@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Napisz_do_mnie-555?style=flat&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_me-555?style=flat&logo=gmail&logoColor=white">
   </a>
   <a>
     <p>No CV yet, sorry</p>
     <!-- <img alt="CV (PDF)" src="https://img.shields.io/badge/CV-PDF-2B579A?style=flat&logo=adobeacrobatreader&logoColor=white"> -->
   </a>
-  <img alt="Open to internship" src="https://img.shields.io/badge/Dost%C4%99pno%C5%9B%C4%87-praktyki%20%2F%20sta%C5%BC%20(2026)-success?style=flat">
+  <img alt="Open to internship" src="https://img.shields.io/badge/Availability-internship%20%2F%20(2026)-success?style=flat">
 </p>
 
 ## TL;DR
