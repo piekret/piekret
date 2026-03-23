@@ -13,7 +13,7 @@
   </a>
   <a>
     <p>No CV yet, sorry</p>
-    <!-- <img alt="CV (PDF)" src="https://img.shields.io/badge/CV-PDF-2B579A?style=flat&logo=adobeacrobatreader&logoColor=white"> -->
+    <img alt="CV (PDF)" src="https://img.shields.io/badge/CV-2B579A?style=flat&logo=adobeacrobatreader&logoColor=grey">
   </a>
   <img alt="Open to internship" src="https://img.shields.io/badge/Availability-internship%20%2F%20(2026)-success?style=flat">
 </p>
