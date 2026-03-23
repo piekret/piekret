@@ -12,8 +12,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact_me-555?style=flat&logo=gmail&logoColor=white">
   </a>
   <a>
-    <p>No CV yet, sorry</p>
-    <img alt="CV (PDF)" src="https://img.shields.io/badge/CV-2B579A?style=flat&logo=adobeacrobatreader&logoColor=grey">
+    <img alt="CV" src="https://img.shields.io/badge/CV-No_CV_yet_sorry-red?style=flat&logo=adobeacrobatreader&logoColor=white">
   </a>
   <img alt="Open to internship" src="https://img.shields.io/badge/Availability-internship%20%2F%20(2026)-success?style=flat">
 </p>
