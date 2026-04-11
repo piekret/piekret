@@ -1,56 +1,65 @@
-<h1 align="center">Patryk • Junior Software Developer</h1>
+<h1 align="center">Patryk Jurak</h1>
 
 <p align="center">
-  IT Student (Lublin, PL) • TypeScript/React • Android (Kotlin/Compose) • C++17
+  Junior Software Developer • IT Student (Lublin, PL)<br>
+  TypeScript/React • Kotlin/Compose • C++17
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patryk-jurak-698696304/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-patryk--jurak-0A66C2?style=flat&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Patryk%20Jurak-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:patryk52310@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_me-555?style=flat&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-555?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a>
-    <img alt="CV" src="https://img.shields.io/badge/CV-No_CV_yet_sorry-red?style=flat&logo=adobeacrobatreader&logoColor=white">
+  <a href="assets/cv/CV-ENG.pdf">
+    <img alt="CV EN" src="https://img.shields.io/badge/CV-English-EA4335?style=flat&logo=adobeacrobatreader&logoColor=white">
   </a>
-  <img alt="Open to internship" src="https://img.shields.io/badge/Availability-internship%20%2F%20(2026)-success?style=flat">
+  <a href="assets/cv/CV-POL.pdf">
+    <img alt="CV PL" src="https://img.shields.io/badge/CV-Polish-EA4335?style=flat&logo=adobeacrobatreader&logoColor=white">
+  </a>
+  <img alt="Availability" src="https://img.shields.io/badge/Availability-Internship%20%2F%20Junior%20(2026)-2EA043?style=flat">
 </p>
 
-## TL;DR
-I build web (TypeScript/React) and mobile (Kotlin/Compose) apps. I like making API projects, clean documentation and test.  
-Currently looking for: internship/junior - **2026** (online or hybrid in PL).
+## About me
+I build practical software across web, mobile, and CLI environments, with a focus on clean structure, readable code, and reliable delivery.  
+I am currently looking for an **internship/junior role in 2026** (remote or hybrid in Poland).
 
-## Skills (with repos as proof)
-- **Frontend:** TypeScript, React, Tailwind CSS, work with API, forms
+## Tech stack
+- **Web:** TypeScript, React, Tailwind CSS, API integration, forms/state management
 - **Mobile:** Kotlin, Jetpack Compose, MVVM, Retrofit/Moshi, Coroutines/Flow
-- **C++:** C++17, CMake, CLI apps
-- **Data:** Data base basics / SQL (educational projects)
+- **C++:** C++17, CMake, terminal applications
+- **Data/Tools:** SQL fundamentals, Git, GitHub, project documentation
 
-<p>
-  <img alt="TypeScript" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="React" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Kotlin" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img alt="C++" height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</p>
+## Featured projects
+- **BookManager (Android)**  
+  Kotlin/Compose app for browsing books and managing favorites using MVVM and API-based data flow.  
+  Repo: https://github.com/piekret/BookManager
 
-## My projects
-- **📱 BookManager (Android)** - Book search and browsing + favorites; Kotlin/Compose, MVVM, Retrofit.
-  → https://github.com/piekret/BookManager
-- **🍲 PAI_Projekt (Web)** - Recipe app: API list, filtering, favorites, adding your own recipes; React + Tailwind.
-  → https://github.com/piekret/PAI_Projekt
-- **🎮 millionaire-cpp (CLI)** - terminal quiz; C++17 + CMake; running with parameters and CSV question file.
-  → https://github.com/piekret/millionaire-cpp
-- **🗄️ BD_Projekt** - educational project: Python + SQL (database script + simple logic in the app).
-  → https://github.com/piekret/BD_Projekt
-- **💸 Spendly** - modern financial dashboard app. It features a responsive design, real-time data visualization, and PDF export capabilities. Built using Next.js.
-  → https://github.com/piekret/BD_Projekt
+- **PAI_Projekt (Web)**  
+  React + Tailwind recipe app with filtering, favorites, and adding custom recipes.  
+  Repo: https://github.com/piekret/PAI_Projekt
+
+- **millionaire-cpp (CLI)**  
+  C++17 quiz game with CSV-driven question sets, CLI parameters, and modular CMake setup.  
+  Repo: https://github.com/piekret/millionaire-cpp
+
+- **BD_Projekt (Python + SQL)**  
+  Educational database project combining SQL scripts with Python logic.  
+  Repo: https://github.com/piekret/BD_Projekt
+
+- **Spendly (Web App)**  
+  Next.js financial dashboard featuring responsive UI, charting, and PDF export.  
+  Repo: https://github.com/SpendlyTeam/Spendly
+
+## Currently learning
+- .NET and backend architecture fundamentals
+- Better testing and API design practices
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/patryk-jurak-698696304/
-- E-mail: patryk52310@gmail.com
-
+- Email: patryk52310@gmail.com
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=piekret&show_icons=true&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=piekret&show_icons=true&hide_title=true&rank_icon=github" />
 </p>
